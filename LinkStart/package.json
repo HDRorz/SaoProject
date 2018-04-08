@@ -1,0 +1,17 @@
+{
+  "name": "linkstart",
+  "version": "1.0.0",
+  "description": "Link Start! SAO game load animate.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "threejs"
+  ],
+  "author": "HDRorz",
+  "license": "ISC",
+  "devDependencies": {
+    "three": "^0.88.0"
+  }
+}
